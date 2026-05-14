@@ -1,0 +1,7 @@
+# STM32CubeIDE
+Debug/
+Release/
+
+# OS generated files
+.DS_Store
+Thumbs.db
